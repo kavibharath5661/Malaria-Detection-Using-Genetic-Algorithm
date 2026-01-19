@@ -1,0 +1,1 @@
+# Malaria-Detection-Using-Genetic-Algorithm
